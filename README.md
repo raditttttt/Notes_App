@@ -11,9 +11,9 @@
 
 ## Mobile App Screenshots 📸
 <p float="center">
-  <img src="https://github.com/YashNagare/Notes_App/blob/master/screenshots/Homepage.jpeg" title="Homepage Note" height="450px" width="225px">
-  <img src="https://github.com/YashNagare/Notes_App/blob/master/screenshots/Add%20Note.jpeg" title="Add Note" height="450px" width="225px">
-  <img src="https://github.com/YashNagare/Notes_App/blob/master/screenshots/Edit%20Note.jpeg" title="Edit Note" height="450px" width="225px">
+  <img src="./screenshots/edit.png" width="200"/>
+ <img src="./screenshots/home blank.png" width="200"/>
+ <img src="./screenshots/home.png" width="200"/>
 </p>
 
 ## Tech Stack 💻
